@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CouponCharts</string>
+    <string name="title_home">Likes</string>
+    <string name="title_dashboard">Users</string>
+    <string name="title_notifications">Coupons</string>
+    <string name="dates_title">Dates</string>
+</resources>
